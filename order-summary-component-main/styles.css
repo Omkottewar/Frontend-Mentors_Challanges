@@ -66,6 +66,9 @@ font-weight: 600;
     background-color: rgb(160, 160, 226);
     cursor: pointer;
 }
+.change{
+color:black;
+}
 .cancel{
     position: relative;
     left: 150px;
