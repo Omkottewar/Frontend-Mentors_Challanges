@@ -69,7 +69,8 @@ font-weight: 600;
 .cancel{
     position: relative;
     left: 150px;
-    top:20px
+    top:20px;
+    color:black;
 }
 footer{
     position: relative;
